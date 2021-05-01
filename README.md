@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**MelisaOzenn/MelisaOzenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi guys! I'm Melisa. ✨</h2>
+<h3> </h3>
 
-Here are some ideas to get you started:
+<h3> 🌹 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 &nbsp; I am an Information Systems Engineering student at Atılım University, Turkey.
+- 💼 &nbsp; Worked as an award-winning dance instructor for 2 years, but now I'm pursuing a career as an engineer.
+- 📚 &nbsp; Currently studying on JavaScript and ReactJS.
+- 
+<h3> 🛠 &nbsp;Tech </h3>
+
+- 💻 &nbsp; C | C++ | C#
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Bootstrap
+- 🛢 &nbsp; MySQL
+
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/melisaozen/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-pink?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/melisaozen_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-pink?style=flat-square&logo=instagram"></a>
+<a href="mailto:melisaozennn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-pink?style=flat-square&logo=gmail"></a>
+</p>
+
