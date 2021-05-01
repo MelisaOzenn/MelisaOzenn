@@ -19,8 +19,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/melisaozen/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-pink?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/melisaozen_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-pink?style=flat-square&logo=instagram"></a>
-<a href="mailto:melisaozennn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-pink?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/melisaozen/"><img alt="LinkedIn" 
+<a href="https://www.instagram.com/melisaozen_/"><img alt="Instagram"
+<a href="mailto:melisaozennn@gmail.com"><img alt="Email" 
 </p>
 
