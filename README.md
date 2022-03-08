@@ -4,9 +4,9 @@
 
 <h3> 🌹 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; I am an Information Systems Engineering student at Atılım University, Turkey.
+- 🎓 &nbsp; I am an Information Systems Engineering graduate from Atılım University, Turkey. Currently living in Prague, doing an internship on Web and Unity development.
 - 💼 &nbsp; Worked as an award-winning dance instructor for 2 years, but now I'm pursuing a career as an engineer.
-- 📚 &nbsp; Currently studying on JavaScript and ReactJS.
+- 📚 &nbsp; Currently studying on JavaScript and ReactJS. Also, I'm a cyber security enthusiast with basic knowledge of network management, cyber threats and impacts, IP addressing, security monitoring and network intrusion analysis...
 - 
 <h3> 🛠 &nbsp;Tech </h3>
 
